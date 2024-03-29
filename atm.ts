@@ -1,6 +1,5 @@
 import inquirer from "inquirer";
 
-
 // const balance = 20000;
 // const mypin = "123";
 
